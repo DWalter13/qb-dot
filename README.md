@@ -27,7 +27,7 @@ Add this job to your qb-core/shared.lua
 
 Added to qb-bossmenu/config.lua
 
-['insurance'] = vector3(1913.46, 3685.7, 41.08),
+['dot'] = vector3(1913.46, 3685.7, 41.08),
 
 
 
