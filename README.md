@@ -4,7 +4,7 @@ Department of Transportation Job For QB-Core using code from qb-trucker and qb-b
 This job is just a base RP job at this state. It will have set work locations with tasks to complete along with a traffic manager.
 
 
-
+```lua
 Add this job to your qb-core/shared.lua
 
 ["dot"] = {
